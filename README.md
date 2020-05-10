@@ -1,4 +1,5 @@
 # Smart-Organic-Farming
+[![HitCount](http://hits.dwyl.com/vdhoke/Smart-Organic-Farming.svg)](http://hits.dwyl.com/vdhoke/Smart-Organic-Farming)
 
 • Designed Ecosystem model with 7 enterprises, 8 organization to promote “Organic Farming” and improved living
 conditions of farmers community by providing required resources at right time
